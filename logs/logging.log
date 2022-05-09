@@ -57,3 +57,858 @@
 2022-05-06 00:25:33 INFO  SmokeTest:54 - AfterMethod, driver close.
 2022-05-06 00:25:38 INFO  TestListener:44 - I am in onFinish method 1 on Fri May 06 00:25:38 EEST 2022
 2022-05-06 00:25:38 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 17:13:03 INFO  TestListener:40 - I am in onStart method 1 on Sun May 08 17:13:03 EEST 2022
+2022-05-08 17:13:03 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 17:13:03 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:13:03 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:13:03 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:13:27 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:13:27 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:13:27 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:13:27 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:13:27 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:13:28 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:13:28 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:13:28 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:13:28 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:13:28 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:13:29 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:13:29 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:13:29 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:13:29 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:13:29 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:13:29 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:13:30 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:13:42 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:13:42 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:13:42 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:13:42 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:13:42 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:13:43 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:13:43 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:13:43 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:13:43 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:13:43 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:13:43 INFO  TestListener:44 - I am in onFinish method 1 on Sun May 08 17:13:43 EEST 2022
+2022-05-08 17:13:43 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 17:14:53 INFO  TestListener:40 - I am in onStart method 1 on Sun May 08 17:14:53 EEST 2022
+2022-05-08 17:14:53 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 17:14:53 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:14:53 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:14:53 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:15:12 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:15:12 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:15:12 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:15:13 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:15:13 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:15:13 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:15:13 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:15:13 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:15:13 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:15:13 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:15:13 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:15:13 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:15:13 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:15:13 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:15:13 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:15:14 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:15:14 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:15:24 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:15:24 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:15:24 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:15:24 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:15:24 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:15:24 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:15:24 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:15:24 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:15:24 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:15:24 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:15:25 INFO  TestListener:44 - I am in onFinish method 1 on Sun May 08 17:15:25 EEST 2022
+2022-05-08 17:15:25 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 17:16:05 INFO  TestListener:40 - I am in onStart method 1 on Sun May 08 17:16:05 EEST 2022
+2022-05-08 17:16:05 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 17:16:05 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:16:05 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:16:05 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:16:21 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:16:21 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:16:21 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:16:22 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:16:22 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:16:23 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:16:23 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:16:23 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:16:23 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:16:23 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:16:23 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:16:23 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:16:23 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:16:23 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:16:23 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:16:24 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:16:24 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 17:16:34 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:16:34 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:16:34 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:16:34 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:16:34 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:16:35 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 17:16:35 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 17:16:35 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 17:16:35 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 17:16:35 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 17:16:36 INFO  TestListener:44 - I am in onFinish method 1 on Sun May 08 17:16:36 EEST 2022
+2022-05-08 17:16:36 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 23:02:55 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Sun May 08 23:02:55 EEST 2022
+2022-05-08 23:02:55 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 23:02:55 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 23:03:03 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 23:03:03 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 23:03:03 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 23:03:03 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 23:03:03 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Sun May 08 23:03:03 EEST 2022
+2022-05-08 23:03:03 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 23:13:36 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Sun May 08 23:13:36 EEST 2022
+2022-05-08 23:13:36 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 23:13:36 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 23:13:42 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 23:13:42 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 23:13:44 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 23:13:44 INFO  TextInput:28 - SEND KEYS FROM FUCKING DECORATOR TEXT INPUT
+2022-05-08 23:13:51 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-08 23:13:55 INFO  SmokeTest:88 - Click check box
+2022-05-08 23:13:59 INFO  SmokeTest:91 - Click filter dropdown
+2022-05-08 23:14:04 INFO  SmokeTest:98 - Click add to cart
+2022-05-08 23:14:05 INFO  SmokeTest:102 - Click on cart button
+2022-05-08 23:14:05 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-08 23:14:05 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 23:14:10 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Sun May 08 23:14:10 EEST 2022
+2022-05-08 23:14:10 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 23:21:31 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Sun May 08 23:21:31 EEST 2022
+2022-05-08 23:21:31 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 23:21:31 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 23:21:36 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 23:21:36 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 23:21:37 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 23:21:37 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 23:21:38 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Sun May 08 23:21:38 EEST 2022
+2022-05-08 23:21:38 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 23:24:52 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Sun May 08 23:24:52 EEST 2022
+2022-05-08 23:24:52 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 23:24:52 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 23:24:59 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 23:24:59 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 23:24:59 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 23:24:59 INFO  DecoratedElement:28 - SEND KEYS FROM FUCKING DECORATOR
+2022-05-08 23:25:06 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-08 23:25:10 INFO  SmokeTest:88 - Click check box
+2022-05-08 23:25:13 INFO  SmokeTest:91 - Click filter dropdown
+2022-05-08 23:25:19 INFO  SmokeTest:98 - Click add to cart
+2022-05-08 23:25:20 INFO  SmokeTest:102 - Click on cart button
+2022-05-08 23:25:21 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-08 23:25:21 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 23:25:21 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Sun May 08 23:25:21 EEST 2022
+2022-05-08 23:25:21 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 23:33:04 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Sun May 08 23:33:04 EEST 2022
+2022-05-08 23:33:04 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 23:33:04 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 23:33:11 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 23:33:11 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 23:33:11 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 23:33:11 INFO  DecoratedElement:34 - Send keys from decorator!
+2022-05-08 23:33:12 INFO  DecoratedElement:21 - Click on the button from decorator
+2022-05-08 23:33:19 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-08 23:33:22 INFO  SmokeTest:88 - Click check box
+2022-05-08 23:33:26 INFO  SmokeTest:91 - Click filter dropdown
+2022-05-08 23:33:30 INFO  SmokeTest:98 - Click add to cart
+2022-05-08 23:33:31 INFO  SmokeTest:102 - Click on cart button
+2022-05-08 23:33:31 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-08 23:33:31 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 23:33:32 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Sun May 08 23:33:32 EEST 2022
+2022-05-08 23:33:32 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 23:35:24 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Sun May 08 23:35:24 EEST 2022
+2022-05-08 23:35:24 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 23:35:24 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 23:35:32 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 23:35:32 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 23:35:32 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 23:35:32 INFO  DecoratedElement:34 - Send keys from decorator!
+2022-05-08 23:35:33 INFO  DecoratedElement:21 - Click on the button from decorator
+2022-05-08 23:36:34 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 23:36:34 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 23:36:40 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Sun May 08 23:36:40 EEST 2022
+2022-05-08 23:36:40 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 23:38:15 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Sun May 08 23:38:15 EEST 2022
+2022-05-08 23:38:15 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 23:38:15 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 23:38:21 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 23:38:21 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 23:38:22 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 23:38:22 INFO  DecoratedElement:34 - Send keys from decorator!
+2022-05-08 23:38:23 INFO  DecoratedElement:21 - Click on the button from decorator
+2022-05-08 23:38:30 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-08 23:38:33 INFO  SmokeTest:88 - Click check box
+2022-05-08 23:38:37 INFO  SmokeTest:91 - Click filter dropdown
+2022-05-08 23:38:41 INFO  SmokeTest:98 - Click add to cart
+2022-05-08 23:38:42 INFO  SmokeTest:102 - Click on cart button
+2022-05-08 23:38:44 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-08 23:38:44 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 23:38:44 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Sun May 08 23:38:44 EEST 2022
+2022-05-08 23:38:44 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 23:40:45 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Sun May 08 23:40:45 EEST 2022
+2022-05-08 23:40:45 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 23:40:45 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 23:40:53 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 23:40:53 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 23:40:53 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 23:40:53 INFO  DecoratedElement:34 - Send keys from decorator!
+2022-05-08 23:40:54 INFO  DecoratedElement:21 - Click on the button from decorator
+2022-05-08 23:41:00 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-08 23:41:04 INFO  SmokeTest:88 - Click check box
+2022-05-08 23:42:05 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 23:42:05 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 23:42:09 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Sun May 08 23:42:09 EEST 2022
+2022-05-08 23:42:09 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 23:44:21 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Sun May 08 23:44:21 EEST 2022
+2022-05-08 23:44:21 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 23:44:21 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 23:44:28 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 23:44:28 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 23:44:28 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 23:44:28 INFO  DecoratedElement:40 - Send keys from decorator!
+2022-05-08 23:44:29 INFO  DecoratedElement:27 - Click on the button from decorator
+2022-05-08 23:44:36 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-08 23:44:39 INFO  SmokeTest:88 - Click check box
+2022-05-08 23:45:40 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 23:45:40 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 23:45:44 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Sun May 08 23:45:44 EEST 2022
+2022-05-08 23:45:44 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 23:46:54 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Sun May 08 23:46:54 EEST 2022
+2022-05-08 23:46:54 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 23:46:54 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 23:47:00 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 23:47:00 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 23:47:01 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 23:47:01 INFO  DecoratedElement:38 - Send keys from decorator!
+2022-05-08 23:47:02 INFO  DecoratedElement:25 - Click on the button from decorator
+2022-05-08 23:47:09 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-08 23:47:12 INFO  SmokeTest:88 - Click check box
+2022-05-08 23:48:13 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 23:48:13 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 23:48:17 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Sun May 08 23:48:17 EEST 2022
+2022-05-08 23:48:17 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 23:49:10 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Sun May 08 23:49:10 EEST 2022
+2022-05-08 23:49:10 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 23:49:10 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 23:49:17 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 23:49:17 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 23:49:17 INFO  SmokeTest:74 - Enter text to text field
+2022-05-08 23:49:17 INFO  DecoratedElement:38 - Send keys from decorator!
+2022-05-08 23:49:18 INFO  DecoratedElement:25 - Click on the button from decorator
+2022-05-08 23:49:25 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-08 23:49:28 INFO  SmokeTest:88 - Click check box
+2022-05-08 23:49:30 INFO  SmokeTest:91 - Click filter dropdown
+2022-05-08 23:49:35 INFO  SmokeTest:98 - Click add to cart
+2022-05-08 23:49:36 INFO  SmokeTest:102 - Click on cart button
+2022-05-08 23:49:37 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-08 23:49:37 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 23:49:37 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Sun May 08 23:49:37 EEST 2022
+2022-05-08 23:49:37 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-08 23:55:38 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Sun May 08 23:55:38 EEST 2022
+2022-05-08 23:55:38 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-08 23:55:38 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-08 23:55:44 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-08 23:55:44 INFO  SmokeTest:71 - smokeTest is running
+2022-05-08 23:55:44 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-08 23:55:44 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-08 23:55:46 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Sun May 08 23:55:46 EEST 2022
+2022-05-08 23:55:46 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 00:01:18 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Mon May 09 00:01:18 EEST 2022
+2022-05-09 00:01:18 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-09 00:01:18 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-09 00:01:25 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 00:01:25 INFO  SmokeTest:71 - smokeTest is running
+2022-05-09 00:01:25 INFO  SmokeTest:74 - Enter text to text field
+2022-05-09 00:01:25 INFO  DecoratedElement:33 - Send keys from decorator!
+2022-05-09 00:01:26 INFO  DecoratedElement:18 - click from MyClick.class
+2022-05-09 00:01:32 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-09 00:01:36 INFO  SmokeTest:88 - Click check box
+2022-05-09 00:01:40 INFO  SmokeTest:91 - Click filter dropdown
+2022-05-09 00:01:45 INFO  SmokeTest:98 - Click add to cart
+2022-05-09 00:01:46 INFO  SmokeTest:102 - Click on cart button
+2022-05-09 00:01:47 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 00:01:47 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-09 00:01:51 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Mon May 09 00:01:51 EEST 2022
+2022-05-09 00:01:51 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 00:09:21 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Mon May 09 00:09:21 EEST 2022
+2022-05-09 00:09:21 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-09 00:09:21 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-09 00:09:29 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 00:09:29 INFO  SmokeTest:71 - smokeTest is running
+2022-05-09 00:09:29 INFO  SmokeTest:74 - Enter text to text field
+2022-05-09 00:09:29 INFO  DecoratedElement:28 - Send keys from decorator!
+2022-05-09 00:09:30 INFO  DecoratedElement:18 - Click from IClick class
+2022-05-09 00:09:30 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 00:09:30 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-09 00:09:31 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Mon May 09 00:09:31 EEST 2022
+2022-05-09 00:09:31 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 00:10:03 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Mon May 09 00:10:03 EEST 2022
+2022-05-09 00:10:03 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-09 00:10:03 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-09 00:10:08 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 00:10:08 INFO  SmokeTest:71 - smokeTest is running
+2022-05-09 00:10:10 INFO  SmokeTest:74 - Enter text to text field
+2022-05-09 00:10:10 INFO  DecoratedElement:28 - Send keys from decorator!
+2022-05-09 00:10:11 INFO  DecoratedElement:18 - Click from IClick class
+2022-05-09 00:10:11 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 00:10:11 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-09 00:10:15 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Mon May 09 00:10:15 EEST 2022
+2022-05-09 00:10:15 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 00:10:59 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Mon May 09 00:10:59 EEST 2022
+2022-05-09 00:10:59 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-09 00:10:59 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-09 00:11:05 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 00:11:05 INFO  SmokeTest:71 - smokeTest is running
+2022-05-09 00:11:06 INFO  SmokeTest:74 - Enter text to text field
+2022-05-09 00:11:06 INFO  DecoratedElement:28 - Send keys from decorator!
+2022-05-09 00:11:07 INFO  DecoratedElement:18 - Click from IClick class
+2022-05-09 00:11:14 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-09 00:11:17 INFO  SmokeTest:88 - Click check box
+2022-05-09 00:11:19 INFO  SmokeTest:91 - Click filter dropdown
+2022-05-09 00:11:25 INFO  SmokeTest:98 - Click add to cart
+2022-05-09 00:11:26 INFO  SmokeTest:102 - Click on cart button
+2022-05-09 00:11:27 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 00:11:27 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-09 00:11:27 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Mon May 09 00:11:27 EEST 2022
+2022-05-09 00:11:27 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 00:15:15 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Mon May 09 00:15:15 EEST 2022
+2022-05-09 00:15:15 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-09 00:15:15 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-09 00:15:22 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 00:15:22 INFO  SmokeTest:71 - smokeTest is running
+2022-05-09 00:15:22 INFO  SmokeTest:74 - Enter text to text field
+2022-05-09 00:15:22 INFO  DecoratedElement:28 - Send keys from decorator!
+2022-05-09 00:15:23 INFO  DecoratedElement:18 - Click from CustomClick class
+2022-05-09 00:15:30 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-09 00:15:33 INFO  SmokeTest:88 - Click check box
+2022-05-09 00:15:36 INFO  SmokeTest:91 - Click filter dropdown
+2022-05-09 00:15:41 INFO  SmokeTest:98 - Click add to cart
+2022-05-09 00:15:42 INFO  SmokeTest:102 - Click on cart button
+2022-05-09 00:15:42 INFO  DecoratedElement:18 - Click from CustomClick class
+2022-05-09 00:15:42 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 00:15:42 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-09 00:15:43 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Mon May 09 00:15:43 EEST 2022
+2022-05-09 00:15:43 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 00:20:51 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Mon May 09 00:20:51 EEST 2022
+2022-05-09 00:20:51 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-09 00:20:51 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-09 00:20:59 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 00:20:59 INFO  SmokeTest:71 - smokeTest is running
+2022-05-09 00:20:59 INFO  SmokeTest:74 - Enter text to text field
+2022-05-09 00:20:59 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 00:21:00 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 00:21:08 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-09 00:21:11 INFO  SmokeTest:88 - Click check box
+2022-05-09 00:21:15 INFO  SmokeTest:91 - Click filter dropdown
+2022-05-09 00:21:22 INFO  SmokeTest:98 - Click add to cart
+2022-05-09 00:21:22 INFO  SmokeTest:102 - Click on cart button
+2022-05-09 00:21:22 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 00:21:23 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 00:21:23 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-09 00:21:23 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Mon May 09 00:21:23 EEST 2022
+2022-05-09 00:21:23 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 00:23:42 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Mon May 09 00:23:42 EEST 2022
+2022-05-09 00:23:42 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-09 00:23:42 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-09 00:23:50 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 00:23:50 INFO  SmokeTest:71 - smokeTest is running
+2022-05-09 00:23:50 INFO  SmokeTest:74 - Enter text to text field
+2022-05-09 00:23:50 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 00:23:51 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 00:23:58 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 00:23:58 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-09 00:23:58 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Mon May 09 00:23:58 EEST 2022
+2022-05-09 00:23:58 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 00:25:46 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Mon May 09 00:25:46 EEST 2022
+2022-05-09 00:25:46 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-09 00:25:46 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-09 00:25:53 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 00:25:53 INFO  SmokeTest:71 - smokeTest is running
+2022-05-09 00:25:53 INFO  SmokeTest:74 - Enter text to text field
+2022-05-09 00:25:53 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 00:25:54 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 00:26:01 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-09 00:26:01 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 00:26:04 INFO  SmokeTest:88 - Click check box
+2022-05-09 00:26:07 INFO  SmokeTest:91 - Click filter dropdown
+2022-05-09 00:26:12 INFO  SmokeTest:98 - Click add to cart
+2022-05-09 00:26:13 INFO  SmokeTest:102 - Click on cart button
+2022-05-09 00:26:13 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 00:26:14 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 00:26:14 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-09 00:26:14 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Mon May 09 00:26:14 EEST 2022
+2022-05-09 00:26:14 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 00:30:34 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Mon May 09 00:30:34 EEST 2022
+2022-05-09 00:30:34 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-09 00:30:34 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-09 00:30:40 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 00:30:40 INFO  SmokeTest:71 - smokeTest is running
+2022-05-09 00:30:42 INFO  SmokeTest:74 - Enter text to text field
+2022-05-09 00:30:42 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 00:30:43 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 00:30:43 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-09 00:30:44 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Mon May 09 00:30:44 EEST 2022
+2022-05-09 00:30:44 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 00:31:27 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Mon May 09 00:31:27 EEST 2022
+2022-05-09 00:31:27 INFO  SmokeTest:39 - BeforeTest in progress.
+2022-05-09 00:31:27 INFO  SmokeTest:65 - Running dataProvider testData
+2022-05-09 00:31:33 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 00:31:33 INFO  SmokeTest:71 - smokeTest is running
+2022-05-09 00:31:34 INFO  SmokeTest:74 - Enter text to text field
+2022-05-09 00:31:34 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 00:31:35 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 00:31:41 INFO  SmokeTest:81 - Enter brand to search field
+2022-05-09 00:31:41 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 00:31:45 INFO  SmokeTest:88 - Click check box
+2022-05-09 00:31:49 INFO  SmokeTest:91 - Click filter dropdown
+2022-05-09 00:31:53 INFO  SmokeTest:98 - Click add to cart
+2022-05-09 00:31:54 INFO  SmokeTest:102 - Click on cart button
+2022-05-09 00:31:54 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 00:31:55 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 00:31:55 INFO  SmokeTest:54 - AfterMethod, driver close.
+2022-05-09 00:31:55 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Mon May 09 00:31:55 EEST 2022
+2022-05-09 00:31:55 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 00:50:09 INFO  TestListener:40 - I am in onStart method FieldDecorator_HT5 on Mon May 09 00:50:09 EEST 2022
+2022-05-09 00:50:09 INFO  SmokeTest:40 - BeforeTest in progress.
+2022-05-09 00:50:09 INFO  SmokeTest:66 - Running dataProvider testData
+2022-05-09 00:50:19 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 00:50:19 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 00:50:21 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 00:50:21 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 00:50:23 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 00:50:30 INFO  SmokeTest:84 - Enter brand to search field
+2022-05-09 00:50:30 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 00:50:34 INFO  SmokeTest:91 - Click check box
+2022-05-09 00:50:37 INFO  SmokeTest:94 - Click filter dropdown
+2022-05-09 00:50:41 INFO  SmokeTest:101 - Click add to cart
+2022-05-09 00:50:42 INFO  SmokeTest:105 - Click on cart button
+2022-05-09 00:50:42 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 00:50:43 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 00:50:43 INFO  SmokeTest:55 - AfterMethod, driver close.
+2022-05-09 00:50:43 INFO  TestListener:44 - I am in onFinish method FieldDecorator_HT5 on Mon May 09 00:50:43 EEST 2022
+2022-05-09 00:50:43 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:06:22 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:06:22 EEST 2022
+2022-05-09 23:06:22 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:06:22 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:06:32 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:06:32 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:06:32 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:06:34 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:06:34 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:06:35 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:06:42 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:06:42 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:06:46 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:06:47 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:06:51 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 23:06:51 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:06:55 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:06:55 EEST 2022
+2022-05-09 23:06:55 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:08:29 INFO  TestListener:40 - I am in onStart method 1 on Mon May 09 23:08:29 EEST 2022
+2022-05-09 23:08:29 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:08:29 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:08:34 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:08:34 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:08:34 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:08:36 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:08:36 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:08:37 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:08:44 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:08:44 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:08:47 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:08:51 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:08:56 INFO  AddToCart:20 - Click add to cart
+2022-05-09 23:08:57 INFO  AddToCart:24 - Click on cart button
+2022-05-09 23:08:57 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:08:57 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 23:08:57 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:08:57 INFO  TestListener:44 - I am in onFinish method 1 on Mon May 09 23:08:57 EEST 2022
+2022-05-09 23:08:57 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:09:29 INFO  TestListener:40 - I am in onStart method 1 on Mon May 09 23:09:29 EEST 2022
+2022-05-09 23:09:29 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:09:29 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:09:36 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:09:36 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:09:36 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:09:36 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:09:36 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:09:37 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:09:44 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:09:44 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:09:47 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:09:50 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:09:55 INFO  AddToCart:20 - Click add to cart
+2022-05-09 23:09:56 INFO  AddToCart:24 - Click on cart button
+2022-05-09 23:09:56 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:09:56 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 23:09:56 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:09:56 INFO  TestListener:44 - I am in onFinish method 1 on Mon May 09 23:09:56 EEST 2022
+2022-05-09 23:09:56 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:10:55 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:10:55 EEST 2022
+2022-05-09 23:10:55 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:10:55 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:11:01 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:11:01 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:11:01 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:11:02 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:11:02 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:11:03 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:11:10 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:11:10 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:11:13 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:11:16 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:11:21 INFO  AddToCart:20 - Click add to cart
+2022-05-09 23:11:22 INFO  AddToCart:24 - Click on cart button
+2022-05-09 23:11:22 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:11:22 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 23:11:22 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:11:22 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:11:22 EEST 2022
+2022-05-09 23:11:22 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:19:43 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:19:43 EEST 2022
+2022-05-09 23:19:43 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:19:43 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:19:49 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:19:49 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:19:49 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:19:51 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:19:51 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:19:52 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:19:58 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:19:58 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:20:01 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:20:04 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:20:09 INFO  AddToCart:20 - Click add to cart
+2022-05-09 23:20:10 INFO  AddToCart:24 - Click on cart button
+2022-05-09 23:20:10 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:20:10 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 23:20:10 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:20:11 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:20:11 EEST 2022
+2022-05-09 23:20:11 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:21:37 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:21:37 EEST 2022
+2022-05-09 23:21:37 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:21:37 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:21:43 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:21:43 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:21:43 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:21:45 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:21:45 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:21:46 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:21:52 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:21:52 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:21:55 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:21:57 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:22:05 INFO  AddToCart:20 - Click add to cart
+2022-05-09 23:22:06 INFO  AddToCart:24 - Click on cart button
+2022-05-09 23:22:06 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:22:09 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 23:22:09 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:22:10 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:22:10 EEST 2022
+2022-05-09 23:22:10 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:23:04 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:23:04 EEST 2022
+2022-05-09 23:23:04 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:23:05 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:23:11 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:23:11 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:23:11 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:23:11 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:23:11 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:23:12 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:23:19 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:23:19 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:23:22 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:23:25 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:23:29 INFO  AddToCart:21 - Click add to cart
+2022-05-09 23:23:30 INFO  AddToCart:25 - Click on cart button
+2022-05-09 23:23:30 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:23:30 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 23:23:30 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:23:31 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:23:31 EEST 2022
+2022-05-09 23:23:31 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:25:44 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:25:44 EEST 2022
+2022-05-09 23:25:44 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:25:44 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:25:50 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:25:50 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:25:50 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:25:50 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:25:50 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:25:52 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:25:58 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:25:58 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:26:01 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:26:04 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:26:09 INFO  AddToCart:21 - Click add to cart
+2022-05-09 23:26:10 INFO  AddToCart:25 - Click on cart button
+2022-05-09 23:26:10 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:26:10 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 23:26:10 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:26:10 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:26:10 EEST 2022
+2022-05-09 23:26:10 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:28:34 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:28:34 EEST 2022
+2022-05-09 23:28:34 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:28:34 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:28:40 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:28:40 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:28:40 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:28:41 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:28:41 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:28:42 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:28:49 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:28:49 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:28:52 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:28:55 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:29:02 INFO  AddToCart:22 - Click add to cart
+2022-05-09 23:29:02 INFO  AddToCart:26 - Click on cart button
+2022-05-09 23:29:03 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:29:03 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 23:29:03 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:29:04 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:29:04 EEST 2022
+2022-05-09 23:29:04 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:29:22 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:29:22 EEST 2022
+2022-05-09 23:29:22 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:29:22 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:29:29 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:29:29 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:29:29 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:29:29 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:29:29 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:29:30 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:29:36 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:29:36 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:29:39 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:29:43 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:29:46 INFO  AddToCart:22 - Click add to cart
+2022-05-09 23:29:47 INFO  AddToCart:26 - Click on cart button
+2022-05-09 23:29:47 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:29:48 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 23:29:48 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:29:48 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:29:48 EEST 2022
+2022-05-09 23:29:48 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:30:36 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:30:36 EEST 2022
+2022-05-09 23:30:36 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:30:36 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:30:42 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:30:42 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:30:42 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:30:42 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:30:42 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:30:43 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:30:50 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:30:50 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:30:53 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:30:56 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:31:00 INFO  AddToCart:21 - Click add to cart
+2022-05-09 23:31:01 INFO  AddToCart:25 - Click on cart button
+2022-05-09 23:31:01 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:31:01 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 23:31:01 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:31:01 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:31:01 EEST 2022
+2022-05-09 23:31:01 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:32:28 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:32:28 EEST 2022
+2022-05-09 23:32:28 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:32:28 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:32:34 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:32:34 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:32:34 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:32:35 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:32:35 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:32:36 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:32:43 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:32:43 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:32:46 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:32:49 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:32:55 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 23:32:55 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:32:55 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:32:55 EEST 2022
+2022-05-09 23:32:55 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:33:44 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:33:44 EEST 2022
+2022-05-09 23:33:44 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:33:44 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:33:52 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:33:52 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:33:52 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:33:52 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:33:52 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:33:53 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:33:59 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:33:59 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:34:02 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:34:06 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:34:12 INFO  AddToCart:21 - Click add to cart
+2022-05-09 23:34:12 INFO  AddToCart:25 - Click on cart button
+2022-05-09 23:34:12 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:34:13 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 23:34:13 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:34:13 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:34:13 EEST 2022
+2022-05-09 23:34:13 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:36:01 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:36:01 EEST 2022
+2022-05-09 23:36:01 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:36:01 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:36:08 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:36:08 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:36:08 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:36:08 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:36:08 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:36:09 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:36:15 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:36:15 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:36:19 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:36:22 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:36:26 INFO  TestListener:28 - I am in com.epam.lab.SmokeTest method smokeTest failed
+2022-05-09 23:36:26 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:36:27 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:36:27 EEST 2022
+2022-05-09 23:36:27 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:37:08 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:37:08 EEST 2022
+2022-05-09 23:37:08 INFO  SmokeTest:48 - BeforeTest in progress.
+2022-05-09 23:37:08 INFO  SmokeTest:74 - Running dataProvider testData
+2022-05-09 23:37:15 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:37:15 INFO  SmokeTest:80 - smokeTest is running
+2022-05-09 23:37:15 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:37:15 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:37:15 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:37:23 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:37:24 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:37:24 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:37:27 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:37:31 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:37:38 INFO  AddToCart:21 - Click add to cart
+2022-05-09 23:37:39 INFO  AddToCart:25 - Click on cart button
+2022-05-09 23:37:39 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:37:40 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 23:37:40 INFO  SmokeTest:63 - AfterMethod, driver close.
+2022-05-09 23:37:40 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:37:40 EEST 2022
+2022-05-09 23:37:40 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:41:27 INFO  TestListener:40 - I am in onStart method Decorator_BusinessObject_HT6 on Mon May 09 23:41:27 EEST 2022
+2022-05-09 23:41:27 INFO  BaseTest:21 - BeforeTest in progress.
+2022-05-09 23:41:27 INFO  SmokeTest:47 - Running dataProvider testData
+2022-05-09 23:41:34 INFO  TestListener:20 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:41:34 INFO  SmokeTest:53 - smokeTest is running
+2022-05-09 23:41:34 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:41:35 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:41:35 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:41:36 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:41:42 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:41:42 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:41:46 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:41:49 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:41:54 INFO  AddToCart:21 - Click add to cart
+2022-05-09 23:41:55 INFO  AddToCart:25 - Click on cart button
+2022-05-09 23:41:55 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:41:56 INFO  TestListener:24 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 23:41:56 INFO  BaseTest:36 - AfterMethod, driver close.
+2022-05-09 23:41:56 INFO  TestListener:44 - I am in onFinish method Decorator_BusinessObject_HT6 on Mon May 09 23:41:56 EEST 2022
+2022-05-09 23:41:56 INFO  TestListener:45 - ------------------------------------------------------------------------------------------
+2022-05-09 23:43:59 INFO  TestListener:38 - I am in onStart method 1 on Mon May 09 23:43:59 EEST 2022
+2022-05-09 23:43:59 INFO  BaseTest:20 - BeforeTest in progress.
+2022-05-09 23:43:59 INFO  SmokeTest:41 - Running dataProvider testData
+2022-05-09 23:44:04 INFO  TestListener:18 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:44:04 INFO  SmokeTest:47 - smokeTest is running
+2022-05-09 23:44:04 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:44:06 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:44:06 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:44:07 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:44:13 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:44:13 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:44:16 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:44:20 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:44:24 INFO  AddToCart:20 - Click add to cart
+2022-05-09 23:44:25 INFO  AddToCart:24 - Click on cart button
+2022-05-09 23:44:25 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:44:26 INFO  TestListener:22 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 23:44:26 INFO  BaseTest:35 - AfterMethod, driver close.
+2022-05-09 23:44:26 INFO  TestListener:42 - I am in onFinish method 1 on Mon May 09 23:44:26 EEST 2022
+2022-05-09 23:44:26 INFO  TestListener:43 - ------------------------------------------------------------------------------------------
+2022-05-09 23:44:48 INFO  TestListener:38 - I am in onStart method 1 on Mon May 09 23:44:48 EEST 2022
+2022-05-09 23:44:48 INFO  BaseTest:20 - BeforeTest in progress.
+2022-05-09 23:44:48 INFO  SmokeTest:41 - Running dataProvider testData
+2022-05-09 23:44:48 INFO  SmokeTest:41 - Running dataProvider testData
+2022-05-09 23:44:48 INFO  SmokeTest:41 - Running dataProvider testData
+2022-05-09 23:45:03 INFO  TestListener:18 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:45:03 INFO  SmokeTest:47 - smokeTest is running
+2022-05-09 23:45:03 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:45:03 INFO  TestListener:18 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:45:03 INFO  SmokeTest:47 - smokeTest is running
+2022-05-09 23:45:03 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:45:03 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:45:03 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:45:03 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:45:03 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:45:04 INFO  TestListener:18 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:45:04 INFO  SmokeTest:47 - smokeTest is running
+2022-05-09 23:45:04 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:45:04 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:45:04 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:45:06 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:45:06 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:45:08 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:45:17 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:45:17 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:45:17 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:45:17 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:45:21 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:45:26 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:45:27 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:45:28 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:45:28 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:45:32 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:45:33 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:45:38 INFO  AddToCart:20 - Click add to cart
+2022-05-09 23:45:39 INFO  AddToCart:20 - Click add to cart
+2022-05-09 23:45:40 INFO  AddToCart:24 - Click on cart button
+2022-05-09 23:45:40 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:45:40 INFO  AddToCart:24 - Click on cart button
+2022-05-09 23:45:41 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:45:41 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:45:42 INFO  TestListener:22 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 23:45:42 INFO  BaseTest:35 - AfterMethod, driver close.
+2022-05-09 23:45:42 INFO  TestListener:22 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 23:45:42 INFO  BaseTest:35 - AfterMethod, driver close.
+2022-05-09 23:45:43 INFO  SmokeTest:41 - Running dataProvider testData
+2022-05-09 23:45:43 INFO  SmokeTest:41 - Running dataProvider testData
+2022-05-09 23:45:55 INFO  TestListener:18 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:45:55 INFO  SmokeTest:47 - smokeTest is running
+2022-05-09 23:45:55 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:45:56 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:45:56 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:45:58 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:45:58 INFO  AddToCart:20 - Click add to cart
+2022-05-09 23:46:01 INFO  AddToCart:24 - Click on cart button
+2022-05-09 23:46:01 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:46:02 INFO  TestListener:18 - I am in com.epam.lab.SmokeTest method smokeTest start
+2022-05-09 23:46:02 INFO  SmokeTest:47 - smokeTest is running
+2022-05-09 23:46:02 INFO  SearchOnHomePage:16 - Step one - search on the Home Page
+2022-05-09 23:46:02 INFO  SearchOnHomePage:19 - Enter text to text field
+2022-05-09 23:46:02 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:46:02 INFO  TestListener:22 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 23:46:02 INFO  BaseTest:35 - AfterMethod, driver close.
+2022-05-09 23:46:04 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:46:08 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:46:08 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:46:12 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:46:13 INFO  FilterDropdown:21 - Enter brand to search field
+2022-05-09 23:46:13 INFO  CustomTextInput:16 - Send keys from CustomTextInput!
+2022-05-09 23:46:16 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:46:16 INFO  FilterDropdown:28 - Click check box
+2022-05-09 23:46:20 INFO  AddToCart:20 - Click add to cart
+2022-05-09 23:46:22 INFO  FilterDropdown:31 - Click filter dropdown
+2022-05-09 23:46:22 INFO  AddToCart:24 - Click on cart button
+2022-05-09 23:46:22 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:46:23 INFO  TestListener:22 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 23:46:23 INFO  BaseTest:35 - AfterMethod, driver close.
+2022-05-09 23:46:28 INFO  AddToCart:20 - Click add to cart
+2022-05-09 23:46:29 INFO  AddToCart:24 - Click on cart button
+2022-05-09 23:46:29 INFO  CustomClick:18 - Click from CustomClick class
+2022-05-09 23:46:29 INFO  TestListener:22 - I am in com.epam.lab.SmokeTest method smokeTest succeed
+2022-05-09 23:46:29 INFO  BaseTest:35 - AfterMethod, driver close.
+2022-05-09 23:46:34 INFO  TestListener:42 - I am in onFinish method 1 on Mon May 09 23:46:34 EEST 2022
+2022-05-09 23:46:34 INFO  TestListener:43 - ------------------------------------------------------------------------------------------
